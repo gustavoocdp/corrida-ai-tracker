@@ -1,0 +1,5 @@
+.env
+credentials.json
+prints_novos/
+prints_processados/
+__pycache__/
